@@ -7,7 +7,9 @@ class Solution:
                 res.append(comb.copy())
             elif s< target:
                 for i in range(start,len(candidates)):
-                    backtrack(i,comb+[candidates[i]])
+                    comb.append(candidates[i])
+                    backtrack(i,comb)
+                    comb.pop()
         
 
         backtrack(0,[])
