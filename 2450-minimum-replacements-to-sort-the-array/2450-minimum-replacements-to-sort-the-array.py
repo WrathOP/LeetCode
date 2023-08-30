@@ -7,9 +7,6 @@ class Solution:
                 steps =(nums[i]-1)//left
                 left = nums[i]//(steps+1)
                 totalsteps += steps
-                print("steps : ", steps )   
-                print("left : ", left)
-                print("total steps", totalsteps)
             else:
                 left = nums[i]
 
