@@ -1,14 +1,15 @@
-# Greedy Approach
 class Solution:
     def minDeletions(self, s: str) -> int:
-        cnt = Counter(s)
+        hm = collections.defaultdict(int)
+        freqset = set()
         deletions = 0
-        used_frequencies = set()
+        for c in s :
+          hm[c]+=1
         
-        for char, freq in cnt.items():
-            while freq > 0 and freq in used_frequencies:
-                freq -= 1
-                deletions += 1
-            used_frequencies.add(freq)
-            
-        return deletions
+        for freq in hm.values():
+          while freq > 0 and freq in freqset:
+            freq-=1
+            deletions +=1
+          freqset.add(freq)
+
+        return deletions 
