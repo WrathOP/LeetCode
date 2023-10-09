@@ -5,20 +5,25 @@
 #         self.next = next
 class Solution:
     def swapNodes(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        buffer = deque()
+        tot = 0
         node = head
-        n=0
+        while node: 
+            node = node.next 
+            tot += 1
+
+        node = head
+        first, last = None,None
+        n=1
         while node:
-            buffer.append(node.val)
+            if first and last:
+                break
+            if n ==k:
+                first = node
+            if n== (tot-k+1):
+                last = node
             node = node.next
             n+=1
 
-
-        buffer[k-1],buffer[n-k]= buffer[n-k],buffer[k-1]
-        dummy = ListNode(0)
-        curr = dummy
-        while buffer:
-            curr.next = ListNode(buffer.popleft())
-            curr = curr.next
-        del buffer
-        return dummy.next
+        first.val,last.val= last.val,first.val 
+        return head
+    
