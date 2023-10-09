@@ -7,10 +7,12 @@ class Solution:
     def swapNodes(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         buffer = deque()
         node = head
+        n=0
         while node:
             buffer.append(node.val)
             node = node.next
-        n = len(buffer)
+            n+=1
+
 
         buffer[k-1],buffer[n-k]= buffer[n-k],buffer[k-1]
         dummy = ListNode(0)
@@ -18,5 +20,5 @@ class Solution:
         while buffer:
             curr.next = ListNode(buffer.popleft())
             curr = curr.next
-
+        del buffer
         return dummy.next
