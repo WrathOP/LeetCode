@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/WrathOP/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0921-spiral-matrix-iii](https://github.com/WrathOP/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1511-count-number-of-teams](https://github.com/WrathOP/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/WrathOP/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/WrathOP/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/WrathOP/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/WrathOP/LeetCode/tree/master/0921-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/WrathOP/LeetCode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
