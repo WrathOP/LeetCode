@@ -20,7 +20,6 @@ class Solution:
         # Max-heap: store (-probability, node)
         queue = [(-1.00, start_node)]
         visited = set()
-        maxProb = 0
 
         while queue:
             prob, node = heapq.heappop(queue)
