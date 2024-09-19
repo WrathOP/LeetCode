@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/WrathOP/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1511-count-number-of-teams](https://github.com/WrathOP/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/WrathOP/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Indexed Tree
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/WrathOP/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/WrathOP/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/WrathOP/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -147,9 +149,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/WrathOP/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/WrathOP/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/WrathOP/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/WrathOP/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/WrathOP/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
