@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/WrathOP/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/WrathOP/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3518-maximum-multiplication-score](https://github.com/WrathOP/LeetCode/tree/master/3518-maximum-multiplication-score) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/WrathOP/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/WrathOP/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1511-count-number-of-teams](https://github.com/WrathOP/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/WrathOP/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3518-maximum-multiplication-score](https://github.com/WrathOP/LeetCode/tree/master/3518-maximum-multiplication-score) |
 ## Binary Indexed Tree
 |  |
 | ------- |
