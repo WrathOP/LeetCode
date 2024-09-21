@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/WrathOP/LeetCode/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/WrathOP/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/WrathOP/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/WrathOP/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/WrathOP/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/WrathOP/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
