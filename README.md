@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/WrathOP/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/WrathOP/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/WrathOP/LeetCode/tree/master/0200-number-of-islands) |
+| [0854-making-a-large-island](https://github.com/WrathOP/LeetCode/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/WrathOP/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1325-path-with-maximum-probability](https://github.com/WrathOP/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1511-count-number-of-teams](https://github.com/WrathOP/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/WrathOP/LeetCode/tree/master/0200-number-of-islands) |
+| [0854-making-a-large-island](https://github.com/WrathOP/LeetCode/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/WrathOP/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/WrathOP/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Simulation
@@ -102,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/WrathOP/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/WrathOP/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0652-find-duplicate-subtrees](https://github.com/WrathOP/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0854-making-a-large-island](https://github.com/WrathOP/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/WrathOP/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/WrathOP/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/WrathOP/LeetCode/tree/master/0200-number-of-islands) |
+| [0854-making-a-large-island](https://github.com/WrathOP/LeetCode/tree/master/0854-making-a-large-island) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/WrathOP/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Strongly Connected Component
 |  |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/WrathOP/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/WrathOP/LeetCode/tree/master/0200-number-of-islands) |
+| [0854-making-a-large-island](https://github.com/WrathOP/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/WrathOP/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Tree
 |  |
