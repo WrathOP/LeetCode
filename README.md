@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/WrathOP/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0652-find-duplicate-subtrees](https://github.com/WrathOP/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/WrathOP/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/WrathOP/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/WrathOP/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/WrathOP/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0652-find-duplicate-subtrees](https://github.com/WrathOP/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/WrathOP/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/WrathOP/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/WrathOP/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/WrathOP/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/WrathOP/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/WrathOP/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
