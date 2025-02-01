@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/WrathOP/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/WrathOP/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3429-special-array-i](https://github.com/WrathOP/LeetCode/tree/master/3429-special-array-i) |
 | [3518-maximum-multiplication-score](https://github.com/WrathOP/LeetCode/tree/master/3518-maximum-multiplication-score) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/WrathOP/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
