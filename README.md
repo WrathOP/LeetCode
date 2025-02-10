@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/WrathOP/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/WrathOP/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3447-clear-digits](https://github.com/WrathOP/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/WrathOP/LeetCode/tree/master/0394-decode-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/WrathOP/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3447-clear-digits](https://github.com/WrathOP/LeetCode/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/WrathOP/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [3447-clear-digits](https://github.com/WrathOP/LeetCode/tree/master/3447-clear-digits) |
 ## Depth-First Search
 |  |
 | ------- |
