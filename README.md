@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/WrathOP/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/WrathOP/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2448-count-number-of-bad-pairs](https://github.com/WrathOP/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/WrathOP/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/WrathOP/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/WrathOP/LeetCode/tree/master/3429-special-array-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/WrathOP/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/WrathOP/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/WrathOP/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/WrathOP/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/WrathOP/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/WrathOP/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/WrathOP/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/WrathOP/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/WrathOP/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [2448-count-number-of-bad-pairs](https://github.com/WrathOP/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/WrathOP/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/WrathOP/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
