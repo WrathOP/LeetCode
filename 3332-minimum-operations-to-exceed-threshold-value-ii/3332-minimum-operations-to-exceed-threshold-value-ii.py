@@ -1,6 +1,5 @@
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
-        min_heap = nums 
         res = 0
         heapq.heapify(nums) 
 
