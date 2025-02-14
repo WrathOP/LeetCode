@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/WrathOP/LeetCode/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/WrathOP/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1325-path-with-maximum-probability](https://github.com/WrathOP/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1477-product-of-the-last-k-numbers](https://github.com/WrathOP/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1511-count-number-of-teams](https://github.com/WrathOP/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/WrathOP/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/WrathOP/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/WrathOP/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/WrathOP/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/WrathOP/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/WrathOP/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/WrathOP/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1477-product-of-the-last-k-numbers](https://github.com/WrathOP/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/WrathOP/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/WrathOP/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/WrathOP/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/WrathOP/LeetCode/tree/master/1656-count-good-triplets) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/WrathOP/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
