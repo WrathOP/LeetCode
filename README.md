@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/WrathOP/LeetCode/tree/master/1656-count-good-triplets) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/WrathOP/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/WrathOP/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2107-find-unique-binary-string](https://github.com/WrathOP/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/WrathOP/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2448-count-number-of-bad-pairs](https://github.com/WrathOP/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/WrathOP/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/WrathOP/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/WrathOP/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/WrathOP/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/WrathOP/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/WrathOP/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/WrathOP/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/WrathOP/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/WrathOP/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/WrathOP/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/WrathOP/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/WrathOP/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/WrathOP/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/WrathOP/LeetCode/tree/master/0040-combination-sum-ii) |
+| [2107-find-unique-binary-string](https://github.com/WrathOP/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Graph
 |  |
 | ------- |
