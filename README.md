@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/WrathOP/LeetCode/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/WrathOP/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/WrathOP/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/WrathOP/LeetCode/tree/master/0394-decode-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/WrathOP/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/WrathOP/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/WrathOP/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0652-find-duplicate-subtrees](https://github.com/WrathOP/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/WrathOP/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/WrathOP/LeetCode/tree/master/0076-minimum-window-substring) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/WrathOP/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Counting
 |  |
