@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/WrathOP/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/WrathOP/LeetCode/tree/master/1656-count-good-triplets) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/WrathOP/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/WrathOP/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/WrathOP/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/WrathOP/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/WrathOP/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/WrathOP/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/WrathOP/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/WrathOP/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3518-maximum-multiplication-score](https://github.com/WrathOP/LeetCode/tree/master/3518-maximum-multiplication-score) |
 ## Binary Indexed Tree
 |  |
