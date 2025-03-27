@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/WrathOP/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2448-count-number-of-bad-pairs](https://github.com/WrathOP/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/WrathOP/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/WrathOP/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/WrathOP/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/WrathOP/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/WrathOP/LeetCode/tree/master/3429-special-array-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/WrathOP/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/WrathOP/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/WrathOP/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/WrathOP/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/WrathOP/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/WrathOP/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/WrathOP/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/WrathOP/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/WrathOP/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/WrathOP/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
